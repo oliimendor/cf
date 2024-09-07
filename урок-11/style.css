@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(26, 26, 87);
+}
+
+h2{
+    color: yellow;
+    text-align: center;
+}
+
+.a1{
+    color: green;
+}
+
+.a2{
+    text-align: center;
+    color: white;
+}
+
+.a3{
+    text-align: center;
+}
+
+.a5{
+    border: 5px solid yellow;
+}
+
+.a4{
+    background-color: rgb(68, 68, 119);
+    color: white;
+}
+
+.a6{
+    background-color: rgb(18, 18, 71);
+    color: white;
+}
+
+.a7{
+    border-radius: 10px;
+    width: 1700px;
+    height: 25px;
+}
+
+.a8{
+    color: white;
+}
+
+.a9{
+    background-color: yellow;
+    border-radius: 30px;
+    width: 400px;
+    height:25px ;
+}
